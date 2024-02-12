@@ -17,7 +17,7 @@ Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for th
 
 
 
-**[Summary]**
+**[Project Outline]**
 
 Phase 1 -  Design
 -   Creating a diagram & mapping out how we would like to build out our lab - logically
