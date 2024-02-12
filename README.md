@@ -5,15 +5,15 @@ The goal here is to start from nothing to a fully integrated SOAR solution incor
 The sky is the limit when it comes to automation and it is up to your creativity.
 
 [Prerequisite]
-- How to set up a virtualbox
-- How to set up a cloud server via DigitalOcean
+- How to set up a virtualbox (Win10) <insert repo: How to setup a homelab>
+- How to set up a cloud server via DigitalOcean (2x Ubuntu 22.04) <insert repo: how to spin up a cloud server>
 
 Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for the first 60 days with Digital Ocean
 
 [Apps Installed]
 - Sysmon
-- Wazuh
-- TheHive
+- Wazuh - Open source cybersecurity platform that integrates SIEM and XDR capabilities
+- TheHive - 4-in-1 security incident response platform
 
 
 
