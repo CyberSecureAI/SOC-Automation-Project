@@ -2,8 +2,7 @@
 
 **[Objective]**
 
-The goal here is to start from nothing to a fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
-The sky is the limit when it comes to automation and it is up to your creativity.
+The objective is to build a comprehensive Security Orchestration, Automation, and Response (SOAR) solution, starting from scratch and incorporating Wazuh and TheHive for effective case management. The possibilities for automation are limitless, and your creativity is the key to unlocking its full potential.
 
 **[Prerequisite]**
 - How to set up a virtualbox (Win10) _**[link repo: How to setup a homelab]**_
