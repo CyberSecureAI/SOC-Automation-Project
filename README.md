@@ -19,18 +19,23 @@ Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for th
 
 
 **[Summary]**
-- Phase 1: Design
+
+Phase 1 -  Design
 -   Creating a diagram & mapping out how we would like to build out our lab - logically
 -   This will allow us to visually see how the data might flow while visually seeing all the pieces that is required to make this all work
 -   Some interviews will request you to draw a diagram of a basic lab and secure it
 -   Using draw.io tool (free)
-- Phase 2: Install
--   installing the components and setting up in the cloud
-- Phase 3: Configuration
+
+Phase 2 - Install
+-   installing the components and setting up the cloud environments
+
+Phase 3 - Configuration
 -  Configure endpoints + servers to communicate to each other
-- Phase 4: Telemetry
+
+Phase 4 - Telemetry
 -   Generate telemetry related to mimikatz on our endpoint which will trigger an alert on Wazuh
-- Phase 5: SOAR
+
+Phase 5 - SOAR
 -   How to setup SOAR and integrate everything together
 
 **[Hive Notes]**
