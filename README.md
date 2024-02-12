@@ -28,7 +28,12 @@ Phase 1 -  Design
 **_Having the ability to draw a basic and secure lab diagram using the draw.io tool can be advantageous during interviews where such visual representations may be requested.._**
 
 Phase 2 - Install
--   installing the components and setting up the cloud environments
+- Deploying Components and Configuring Cloud Environments
+  - Installing Windows 10 within VirtualBox
+  - Implementing Sysmon on the Windows 10 operating system
+  - Setting up two Ubuntu servers:
+    - One dedicated to hosting the Wazuh application
+    - Another designated for hosting TheHive application 
 
 Phase 3 - Configuration
 -  Configure endpoints + servers to communicate to each other
