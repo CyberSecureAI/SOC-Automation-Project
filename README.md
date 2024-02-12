@@ -25,7 +25,7 @@ Phase 1 -  Design
 3. Component visualization: Use the diagram to visually identify all the necessary components required for seamless functionality.
 4. Practicality assessment: Evaluate the practical aspects of the constructed lab by visually inspecting the diagram.
 
-_Interview preparation: Be ready to draw a basic and secured lab diagram during interviews, utilizing the draw.io tool, which is freely accessible._
+_Having the ability to draw a basic and secure lab diagram using the draw.io tool can be advantageous during interviews where such visual representations may be requested.._
 
 Phase 2 - Install
 -   installing the components and setting up the cloud environments
