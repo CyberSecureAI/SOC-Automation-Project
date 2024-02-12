@@ -20,10 +20,12 @@ Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for th
 **[Project Outline]**
 
 Phase 1 -  Design
--   Creating a diagram & mapping out how we would like to build out our lab - logically
--   This will allow us to visually see how the data might flow while visually seeing all the pieces that is required to make this all work
--   Some interviews will request you to draw a diagram of a basic lab and secure it
--   Using draw.io tool (free)
+1. Drafting a visual representation: Develop a diagram that outlines the logical construction of our lab environment.
+2. Mapping the flow: Illustrate the anticipated data flow to provide a clear visual representation.
+3. Component visualization: Use the diagram to visually identify all the necessary components required for seamless functionality.
+4. Practicality assessment: Evaluate the practical aspects of the constructed lab by visually inspecting the diagram.
+
+_Interview preparation: Be ready to draw a basic and secured lab diagram during interviews, utilizing the draw.io tool, which is freely accessible._
 
 Phase 2 - Install
 -   installing the components and setting up the cloud environments
