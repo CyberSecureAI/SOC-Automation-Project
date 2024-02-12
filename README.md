@@ -1,23 +1,23 @@
 **Welcome to the SOC Automation Project.**
 
-[Objective]
+**[Objective]**
 The goal here is to start from nothing to a fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
 The sky is the limit when it comes to automation and it is up to your creativity.
 
-[Prerequisite]
+**[Prerequisite]**
 - How to set up a virtualbox (Win10) _**[link repo: How to setup a homelab]**_
 - How to set up a cloud server via DigitalOcean (2x Ubuntu 22.04) _**[link repo: how to spin up a cloud server]**_
 
 Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for the first 60 days with Digital Ocean
 
-[Apps Installed]
+**[Apps Installed]**
 - Sysmon
 - Wazuh - Open source cybersecurity platform that integrates SIEM and XDR capabilities
 - TheHive - 4-in-1 security incident response platform
 
 
 
-[Summary]
+**[Summary]**
 - Phase 1: Design
 -   Creating a diagram & mapping out how we would like to build out our lab - logically
 -   This will allow us to visually see how the data might flow while visually seeing all the pieces that is required to make this all work
@@ -32,7 +32,7 @@ Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for th
 - Phase 5: SOAR
 -   How to setup SOAR and integrate everything together
 
-[Hive Notes]
+**[Hive Notes]**
 - We send alerts to the hive to keep track on who's working on the alerts
 
 [Terms]
