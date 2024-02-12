@@ -5,8 +5,8 @@ The goal here is to start from nothing to a fully integrated SOAR solution incor
 The sky is the limit when it comes to automation and it is up to your creativity.
 
 [Prerequisite]
-- How to set up a virtualbox (Win10) [link repo: How to setup a homelab]
-- How to set up a cloud server via DigitalOcean (2x Ubuntu 22.04) [link repo: how to spin up a cloud server]
+- How to set up a virtualbox (Win10) _**[link repo: How to setup a homelab]**_
+- How to set up a cloud server via DigitalOcean (2x Ubuntu 22.04) _**[link repo: how to spin up a cloud server]**_
 
 Use the link: https://m.do.co/c/7c4cda4fcca2 <- To get a free $200 credit for the first 60 days with Digital Ocean
 
